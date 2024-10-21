@@ -11,5 +11,6 @@ document.querySelector('#app').innerHTML = `
       <img src="${javascriptLogo}" class="logo vanilla" alt="JavaScript logo" />
     </a>
     <h1>Website under construction</h1>
+    <a href="cv.html" class="cta-btn cta-btn--hero">CV</a>
   </div>
 `
